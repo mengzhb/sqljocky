@@ -7,10 +7,10 @@ environment:
   sdk: '>=1.11.0 <2.9.0'
 documentation: http://jamesots.github.io/sqljocky/docs
 dependencies:
-  crypto: '>=0.9.0 <0.10.0'
-  logging: '>=0.11.1 <0.12.0'
-  options_file:
+  crypto: any
+  logging: any
+  options_file: any
 dev_dependencies:
-  test: '>=0.12.3+9 <0.13.0'
-  mockito: '>=0.10.1 <0.11.0'
+  test: any
+  mockito: any
   args: any
